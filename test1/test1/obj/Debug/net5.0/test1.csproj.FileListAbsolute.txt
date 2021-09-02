@@ -1,0 +1,16 @@
+C:\Users\loren\Desktop\work\test1\test1\test1\obj\Debug\net5.0\test1.csproj.AssemblyReference.cache
+C:\Users\loren\Desktop\work\test1\test1\test1\obj\Debug\net5.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Desktop\work\test1\test1\test1\obj\Debug\net5.0\test1.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\work\test1\test1\test1\obj\Debug\net5.0\test1.AssemblyInfo.cs
+C:\Users\loren\Desktop\work\test1\test1\test1\obj\Debug\net5.0\test1.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\work\test1\test1\test1\bin\Debug\net5.0\test1.exe
+C:\Users\loren\Desktop\work\test1\test1\test1\bin\Debug\net5.0\test1.deps.json
+C:\Users\loren\Desktop\work\test1\test1\test1\bin\Debug\net5.0\test1.runtimeconfig.json
+C:\Users\loren\Desktop\work\test1\test1\test1\bin\Debug\net5.0\test1.runtimeconfig.dev.json
+C:\Users\loren\Desktop\work\test1\test1\test1\bin\Debug\net5.0\test1.dll
+C:\Users\loren\Desktop\work\test1\test1\test1\bin\Debug\net5.0\ref\test1.dll
+C:\Users\loren\Desktop\work\test1\test1\test1\bin\Debug\net5.0\test1.pdb
+C:\Users\loren\Desktop\work\test1\test1\test1\obj\Debug\net5.0\test1.dll
+C:\Users\loren\Desktop\work\test1\test1\test1\obj\Debug\net5.0\ref\test1.dll
+C:\Users\loren\Desktop\work\test1\test1\test1\obj\Debug\net5.0\test1.pdb
+C:\Users\loren\Desktop\work\test1\test1\test1\obj\Debug\net5.0\test1.genruntimeconfig.cache
